@@ -1,0 +1,179 @@
+html, body {
+    width: 100%;
+    height:100%;
+}
+
+body {
+    background: linear-gradient(-45deg, #e73c7e, #23a6d5,#DF4A4A, #DFDA4A, #70DF4A,  #4ADFBB, #4A85DF, #674ADF, #B44ADF, #DF4AAB, #DF4A4A);
+    background-size: 2000% 2000%;
+    animation: gradient 80s ease infinite;
+    height: 100vh;
+    overflow: hidden;
+}
+.bodyDiv{
+    height: 80vh;
+    overflow: hidden;
+    display: flex;
+    font-family: 'Anton', sans-serif;
+    justify-content: center;
+    align-items: center;
+}
+.questionText{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.myDiv{
+    color : white;
+    width:60%;
+    background :rgba(0, 0, 0, 0.5);
+    border-radius:10px;
+    padding : 5px;
+    display: none;
+}
+@media (max-width: 576px) {
+    .myDiv{
+        width:90%;
+    }
+}
+
+@media (max-width: 400px) {
+    .myDiv{
+        width:90%;
+    }
+    .questionText{
+        font-size: 20px;
+    }
+    body{
+        overflow: auto;
+    }
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+@keyframes progress {
+    from {
+        width: 0%;
+    }
+    to {
+        width: 100%;
+    }
+}
+.cntDown{
+    color: white;
+    font-weight: bold;
+    font-size: 4em;
+}
+.delayAnimate {
+    animation-delay: 0.2s;
+}
+.question-number{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+    width: -moz-max-content;
+    width: max-content;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 20%;
+    display: none;
+}
+#muteDiv{
+    display: none;
+}
+
+.questionImage {
+    height: auto;
+    width: auto;
+    max-width: 70%;
+    max-height: 300px;
+    border: 8px solid #FFFFFF; border-radius: 10px;
+}
+.questionImage:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+/* this style for quiz image modal zoom */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    padding-top: 100px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.9);
+}
+
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)}
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}

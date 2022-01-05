@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02b9fa4c-8336-49a7-97ce-a3fd203e99a3" name="Default Changelist" comment="- hide controls button">
+      <change beforePath="$PROJECT_DIR$/pages/accountCreatedSuccessfully.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/accountCreatedSuccessfully.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/accountPasswordResetSuccessfully.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/accountPasswordResetSuccessfully.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/addQuestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/addQuestion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/adminEditQuizzes.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/adminEditQuizzes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/adminEditUsers.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/adminEditUsers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/adminNavBar.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/adminNavBar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/categories.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/categories.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/changePassword.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/changePassword.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/createQuiz.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/createQuiz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/deleteQuestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/deleteQuestion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/deleteQuiz.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/deleteQuiz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/deleteUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/deleteUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/editQuestion.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/editQuestion.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/editQuiz.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/editQuiz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/editUser.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/editUser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/forgetPasswordVerification.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/forgetPasswordVerification.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mailAuthentication.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/mailAuthentication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/navBar.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/navBar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/notUserMessage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/notUserMessage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/process.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/process.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/profile.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/profile.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/quizGame.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/quizGame.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/quizPage.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/quizPage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/quizStatistics.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/quizStatistics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/register.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/sendForgetPasswordCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/sendForgetPasswordCode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/serverConnection.php" beforeDir="false" afterPath="$PROJECT_DIR$/pages/serverConnection.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/phpmailer/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpmailer/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/phpmailer/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1q4HKCXJ7BY6YbNjdchgBWtYtwP" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02b9fa4c-8336-49a7-97ce-a3fd203e99a3" name="Default Changelist" comment="" />
+      <created>1616331875525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616331875525</updated>
+      <workItem from="1616331876562" duration="6672000" />
+      <workItem from="1616348514685" duration="1365000" />
+      <workItem from="1616712149645" duration="39000" />
+      <workItem from="1616753108497" duration="6197000" />
+      <workItem from="1616854224336" duration="27000" />
+      <workItem from="1616931392702" duration="6909000" />
+      <workItem from="1617011703010" duration="3776000" />
+      <workItem from="1617036450250" duration="310000" />
+      <workItem from="1617057371218" duration="1000" />
+      <workItem from="1617117401076" duration="7810000" />
+      <workItem from="1617189829626" duration="627000" />
+      <workItem from="1617193278892" duration="38000" />
+      <workItem from="1617201410073" duration="3340000" />
+      <workItem from="1617315238151" duration="8000" />
+      <workItem from="1617727421384" duration="62000" />
+      <workItem from="1617817373981" duration="45000" />
+      <workItem from="1618048673512" duration="335000" />
+      <workItem from="1618049021105" duration="114000" />
+      <workItem from="1618049147168" duration="124000" />
+      <workItem from="1618049374702" duration="2547000" />
+      <workItem from="1618183998557" duration="2000" />
+      <workItem from="1618425410712" duration="3000" />
+      <workItem from="1618921139200" duration="597000" />
+      <workItem from="1619286184376" duration="5000" />
+      <workItem from="1621803113310" duration="217000" />
+      <workItem from="1621803333129" duration="9000" />
+      <workItem from="1621803382480" duration="608000" />
+      <workItem from="1622886569813" duration="2000" />
+      <workItem from="1622985254590" duration="927000" />
+      <workItem from="1623580512935" duration="3000" />
+      <workItem from="1623940626535" duration="4800000" />
+      <workItem from="1624017922704" duration="90000" />
+      <workItem from="1624184418564" duration="3497000" />
+      <workItem from="1624990276537" duration="42000" />
+      <workItem from="1625142522425" duration="155000" />
+      <workItem from="1625148135645" duration="237000" />
+      <workItem from="1625148555415" duration="21000" />
+      <workItem from="1627824109761" duration="5000" />
+      <workItem from="1635097942484" duration="157000" />
+      <workItem from="1635098594008" duration="39000" />
+      <workItem from="1635098641574" duration="256000" />
+      <workItem from="1635099098234" duration="60000" />
+      <workItem from="1635099164679" duration="179000" />
+      <workItem from="1635099383206" duration="491000" />
+    </task>
+    <task id="LOCAL-00001" summary="Categories animation">
+      <created>1616349653415</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616349653415</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Category Update!">
+      <created>1616761682425</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616761682425</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding notes/Comments!">
+      <created>1616937122899</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616937122899</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Leaderboard">
+      <created>1617014902322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617014902322</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Javascript functions">
+      <created>1617125214062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617125214062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Adding more comments!">
+      <created>1617204176065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617204176065</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updates for input limits">
+      <created>1618050572084</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618050572084</updated>
+    </task>
+    <task id="LOCAL-00008" summary="- Fixing Category quiz invisibility after editing&#10;- Fixing a few errors in index page, profile page and Category.">
+      <created>1623949560162</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623949560162</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- hide controls button">
+      <created>1624188949710</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624188949710</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Categories animation" />
+    <MESSAGE value="Category Update!" />
+    <MESSAGE value="Adding notes/Comments!" />
+    <MESSAGE value="Leaderboard" />
+    <MESSAGE value="Javascript functions" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;pages/categories.php" />
+    <MESSAGE value="Adding more comments!" />
+    <MESSAGE value="Updates for input limits" />
+    <MESSAGE value="- Fixing Category quiz invisibility after editing&#10;- Fixing a few errors in index page, profile page and Category." />
+    <MESSAGE value="- hide controls button" />
+    <option name="LAST_COMMIT_MESSAGE" value="- hide controls button" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="97" key="CommitChangelistDialog2" timestamp="1635099550806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="97" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1635099550806" />
+    <state width="563" height="533" key="SwitcherDM.inPresentationMode" timestamp="1635099130334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="563" height="533" key="SwitcherDM.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1635099130334" />
+    <state x="286" y="-2" key="search.everywhere.popup.inPresentationMode" timestamp="1635099140551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="286" y="-2" key="search.everywhere.popup.inPresentationMode/0.0.1920.1040@0.0.1920.1040" timestamp="1635099140551" />
+  </component>
+</project>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="911" height="806.5" viewBox="0 0 911 806.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.704" y1="0.059" x2="0.384" y2="0.589" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eb6864"/>
+      <stop offset="1" stop-color="#a5a6a5"/>
+    </linearGradient>
+    <filter id="QuizTech" x="0" y="535.5" width="911" height="271" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(-357.5 2529)">
+    <g id="Group_28" data-name="Group 28" transform="translate(31 -191)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M289.586,500a251.883,251.883,0,0,1-50.384-5.079A248.64,248.64,0,0,1,149.808,457.3,250.742,250.742,0,0,1,59.232,347.312a248.744,248.744,0,0,1-14.567-46.928,250.563,250.563,0,0,1,7.239-128.1L140.9,230.078a151.592,151.592,0,0,0,1.734,50.153,149.164,149.164,0,0,0,22.57,53.636,150.441,150.441,0,0,0,66,54.346,149.276,149.276,0,0,0,28.157,8.74,151.474,151.474,0,0,0,60.461,0,149.032,149.032,0,0,0,48.449-19.221L457.2,435.487a250.178,250.178,0,0,1-70.3,44.868,248.809,248.809,0,0,1-46.928,14.567A251.877,251.877,0,0,1,289.586,500ZM473.21,419.653h0l-85.946-55.814c2.882-2.475,5.7-5.089,8.386-7.772A150.212,150.212,0,0,0,427.8,308.387a149.27,149.27,0,0,0,8.741-28.156,151.465,151.465,0,0,0,0-60.46,149.207,149.207,0,0,0-22.57-53.636,150.436,150.436,0,0,0-66-54.346,149.24,149.24,0,0,0-28.156-8.741,151.467,151.467,0,0,0-60.461,0,149.2,149.2,0,0,0-53.636,22.57,150.449,150.449,0,0,0-54.346,66,149.566,149.566,0,0,0-5.545,15.433L59.859,151.218A250.06,250.06,0,1,1,473.211,419.652Z" transform="translate(419.415 -2338)" fill="url(#linear-gradient)"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M289.749,178.109,30.459,105.825,55.878,0,301.73,159.658l-.183.282a20.006,20.006,0,0,0-11.757,18.106l-.04.062Z" transform="translate(730.211 -1961.169)" fill="#a5a6a5"/>
+      <path id="Exclusion_2" data-name="Exclusion 2" d="M40,80A40.011,40.011,0,0,1,24.43,3.143a40.01,40.01,0,0,1,31.14,73.713A39.749,39.749,0,0,1,40,80Zm0-60a19.939,19.939,0,1,0,7.785,1.572A19.875,19.875,0,0,0,40,20Z" transform="translate(1024 -1809)" fill="#737373"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 357.5, -2529)" filter="url(#QuizTech)">
+      <text id="QuizTech-2" data-name="QuizTech" transform="translate(16.5 747)" fill="#eb6864" font-size="200" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">QuizTech</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <g id="Group_1" data-name="Group 1" transform="translate(-273 -627)">
+    <g id="Group_2" data-name="Group 2" transform="translate(-330 237)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="250" cy="250" r="250" transform="translate(603 390)" fill="#585858"/>
+    </g>
+    <g id="Ellipse_1-2" data-name="Ellipse 1" transform="translate(450 688)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="74" cy="74" r="74" stroke="none"/>
+      <circle cx="74" cy="74" r="73.5" fill="none"/>
+    </g>
+    <path id="Intersection_1" data-name="Intersection 1" d="M80.014,433.318a170.5,170.5,0,0,1,340.959-.92,250,250,0,0,1-340.959.92Z" transform="translate(273 566)" fill="#fff"/>
+  </g>
+</svg>
